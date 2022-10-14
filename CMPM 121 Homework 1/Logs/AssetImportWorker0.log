@@ -1,0 +1,234 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.10f1 (1c7d0df0160b) revision 1867021'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Core' Language: 'en' Physical Memory: 16085 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Em/Desktop/CMPM 121/CMPM 121 Homework 1
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54290
+Successfully changed project path to: C:/Users/Em/Desktop/CMPM 121/CMPM 121 Homework 1
+C:/Users/Em/Desktop/CMPM 121/CMPM 121 Homework 1
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 93.22 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.10f1 (1c7d0df0160b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Em/Desktop/CMPM 121/CMPM 121 Homework 1/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   NVIDIA
+    VRAM:     6023 MB
+    Driver:   31.0.15.1659
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56176
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.011080 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 96.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.732 seconds
+Domain Reload Profiling:
+	ReloadAssembly (732ms)
+		BeginReloadAssembly (87ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (505ms)
+			LoadAssemblies (84ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (122ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (25ms)
+			SetupLoadedEditorAssemblies (302ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (97ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (146ms)
+				ProcessInitializeOnLoadMethodAttributes (47ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006333 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Em\Desktop\CMPM 121\CMPM 121 Homework 1\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Em\Desktop\CMPM 121\CMPM 121 Homework 1\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.199 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1200ms)
+		BeginReloadAssembly (151ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (44ms)
+		EndReloadAssembly (892ms)
+			LoadAssemblies (102ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (300ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (49ms)
+			SetupLoadedEditorAssemblies (397ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (109ms)
+				ProcessInitializeOnLoadAttributes (241ms)
+				ProcessInitializeOnLoadMethodAttributes (27ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3381 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 27 unused Assets / (113.3 KB). Loaded Objects now: 3840.
+Memory consumption went from 117.3 MB to 117.2 MB.
+Total: 2.769800 ms (FindLiveObjects: 0.250100 ms CreateObjectMapping: 0.134600 ms MarkObjects: 2.285200 ms  DeleteObjects: 0.099100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 17560.353089 seconds.
+  path: Assets/Models/Tropical Fish/TropicalFish04.obj
+  artifactKey: Guid(7c48690f38832354daa2ae1473ea8eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Tropical Fish/TropicalFish04.obj using Guid(7c48690f38832354daa2ae1473ea8eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30eaaa975b6597b3e0caf1aee1a0bf2e') in 0.152693 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 28.494181 seconds.
+  path: Assets/Models/Tropical Fish/TropicalFish05.obj
+  artifactKey: Guid(7d0392eb544adb1409b821dfb3e1fcb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Tropical Fish/TropicalFish05.obj using Guid(7d0392eb544adb1409b821dfb3e1fcb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad773c7266e2a6ed0802f95a7ec54ff2') in 0.028546 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.395535 seconds.
+  path: Assets/Models/Tropical Fish/TropicalFish06.obj
+  artifactKey: Guid(11cae353523f6de4f97b3e1148e52f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Tropical Fish/TropicalFish06.obj using Guid(11cae353523f6de4f97b3e1148e52f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c93a632ea770826439668c3c3cb46230') in 0.030584 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.628340 seconds.
+  path: Assets/Models/Tropical Fish/TropicalFish07.obj
+  artifactKey: Guid(6e04f1544797e9e41ae373b8555ece26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Tropical Fish/TropicalFish07.obj using Guid(6e04f1544797e9e41ae373b8555ece26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '083b76a56de8d6fa65ec957d9d2b1be8') in 0.030254 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.025845 seconds.
+  path: Assets/Models/Tropical Fish/TropicalFish08.obj
+  artifactKey: Guid(d586540347394ba4e99b4255f5df5521) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Tropical Fish/TropicalFish08.obj using Guid(d586540347394ba4e99b4255f5df5521) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9958431cda2f6ab0a9c5978709bcc28d') in 0.027477 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.425315 seconds.
+  path: Assets/Models/Tropical Fish/TropicalFish09.obj
+  artifactKey: Guid(832b10b84ff7adf4eae6858c65540351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Tropical Fish/TropicalFish09.obj using Guid(832b10b84ff7adf4eae6858c65540351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f28a976026612b5e8bd1607a5dcffbb') in 0.027655 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.398168 seconds.
+  path: Assets/Models/Tropical Fish/TropicalFish10.obj
+  artifactKey: Guid(63533681bec466a46a8ccaec63bd305d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Tropical Fish/TropicalFish10.obj using Guid(63533681bec466a46a8ccaec63bd305d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dfee1cceb1f2b49b5d3128c040504af') in 0.029081 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.335269 seconds.
+  path: Assets/Models/Tropical Fish/TropicalFish11.obj
+  artifactKey: Guid(5a18328bb4c295e448c5cbb575dc644c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Tropical Fish/TropicalFish11.obj using Guid(5a18328bb4c295e448c5cbb575dc644c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57d3d4621b7ca7dd58a1d73338286e5a') in 0.023070 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.002871 seconds.
+  path: Assets/Models/Tropical Fish/TropicalFish12.obj
+  artifactKey: Guid(ff391e5262b0f1041a004f60f38013a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Tropical Fish/TropicalFish12.obj using Guid(ff391e5262b0f1041a004f60f38013a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c942ff315c1f1d8aa53d902aad0dbc7') in 0.029246 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.346425 seconds.
+  path: Assets/Models/Tropical Fish/TropicalFish13.obj
+  artifactKey: Guid(be7fac02e3ddcb946b7ff6865412fe17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Tropical Fish/TropicalFish13.obj using Guid(be7fac02e3ddcb946b7ff6865412fe17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e570016830c016dff186f7db41e72e73') in 0.027663 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.161634 seconds.
+  path: Assets/Models/Tropical Fish/TropicalFish14.obj
+  artifactKey: Guid(8bb3ac6f487424c41b97b43a46bc35ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Tropical Fish/TropicalFish14.obj using Guid(8bb3ac6f487424c41b97b43a46bc35ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f1a0b4c336c3c73ad610055b6fc84c7') in 0.023009 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.804389 seconds.
+  path: Assets/Models/Tropical Fish/TropicalFish15.obj
+  artifactKey: Guid(00560a8ca2634354bb6d0789fa7b003e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Tropical Fish/TropicalFish15.obj using Guid(00560a8ca2634354bb6d0789fa7b003e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ca326861b621394cfa607854a744383') in 0.023439 seconds 
