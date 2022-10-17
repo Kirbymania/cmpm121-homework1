@@ -11,8 +11,8 @@ Object List
 5. humpack_whale_model23 - Found at https://assetstore.unity.com/packages/3d/characters/animals/fish/humpback-whale-3547
 6. uploads_files_2348848_coral - Found at https://www.cgtrader.com/free-3d-print-models/art/scans-replicas/red-coral-1fd23e7e-eebf-4f26-b431-ebf7b0f3a7c1
 7. uploads_files_2301153_seaweedList - Found at https://www.cgtrader.com/free-3d-models/plant/other/seaweed-6c855842-c6ff-4078-86d3-f521d78f445b
-8. 
-9. 
+8. chest_open - Found at https://assetstore.unity.com/packages/3d/props/interior/treasure-set-free-chest-72345
+9. coins - Found at https://assetstore.unity.com/packages/3d/props/interior/treasure-set-free-chest-72345
 10. 
 11. 
 12. 
