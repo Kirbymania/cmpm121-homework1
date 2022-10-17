@@ -5,15 +5,14 @@ Homework 1 for CMPM 121. A Unity scene created with multiple objects, cameras, a
   
 Object List
 1. homework1_ground - I sculpted this myself in Blender but got the sand texture from https://assetstore.unity.com/packages/2d/textures-materials/floors/yughues-free-sand-materials-12964
-2. humpack_whale_model23 - Found at https://assetstore.unity.com/packages/3d/characters/animals/fish/humpback-whale-3547
+2. RockModel01_EmCoo - Sculpted myself in Blender for a GDA game I previously worked on called Gremlin Garden. The rock texture is from https://assetstore.unity.com/packages/2d/textures-materials/rock-textures-4k-179128
 3. 10010_Coral_v1_L3 - Found at https://free3d.com/3d-model/coral-v1--901825.html
 4. 20941_Brain_Coral_v1_NEW1 - Found at https://free3d.com/3d-model/brain-coral-v1--165215.html
-5. RockModel01_EmCoo - Sculpted myself in Blender for a game I previously worked on called Gremlin Garden. The rock texture is from https://assetstore.unity.com/packages/2d/textures-materials/rock-textures-4k-179128
-6. 
-7. 
+5. humpack_whale_model23 - Found at https://assetstore.unity.com/packages/3d/characters/animals/fish/humpback-whale-3547
+6. uploads_files_2348848_coral - Found at https://www.cgtrader.com/free-3d-print-models/art/scans-replicas/red-coral-1fd23e7e-eebf-4f26-b431-ebf7b0f3a7c1
+7. uploads_files_2301153_seaweedList - Found at https://www.cgtrader.com/free-3d-models/plant/other/seaweed-6c855842-c6ff-4078-86d3-f521d78f445b
 8. 
 9. 
 10. 
 11. 
 12. 
-13. 
