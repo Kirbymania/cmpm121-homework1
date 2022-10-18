@@ -13,6 +13,5 @@ Object List
 7. uploads_files_2301153_seaweedList - Found at https://www.cgtrader.com/free-3d-models/plant/other/seaweed-6c855842-c6ff-4078-86d3-f521d78f445b
 8. chest_open - Found at https://assetstore.unity.com/packages/3d/props/interior/treasure-set-free-chest-72345
 9. coins - Found at https://assetstore.unity.com/packages/3d/props/interior/treasure-set-free-chest-72345
-10. 
-11. 
-12. 
+10. Crab_MainCharacter - The main playable character of my scene, found at https://www.cgtrader.com/free-3d-models/animals/fish/crab-model-24082f24-885d-4da1-9860-6d53f01239e0
+11-25. TropicalFish01-TropicalFish15 - Found at https://www.turbosquid.com/3d-models/free-tropical-fish-pack-3d-model/652729#
